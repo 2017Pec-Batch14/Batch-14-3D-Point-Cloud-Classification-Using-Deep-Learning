@@ -7,6 +7,3 @@ Run :  	face3d.p
 
 
 
-
-% For More Info Contact us : maher_zankari@matlab-recognition-code.com
-
