@@ -1,14 +1,14 @@
 **3D POINT CLOUD CLASSIFICATION USING DEEP LEARNING**
 
-our project is reconstruction of 2d to 3d images.In this project we are using Convolutional Neural Network(CNN) Algorithm .The activity of CNN is based on the INPUT GIVEN IN DOTS
-IT AUTOMATICALLY CONVERT THE DOTS  OR PATTERENS INTO THE
-RESPECTED IMAGE WHAT WE HAVE GIVEN IN A 2D FORMAT .
-TEHEREFORE IT PRODUCES THE IMAGE PROPERLY AND WE CAN VISUALIZE
-THERE.
+our project is reconstruction of 2d to 3d images.In this project we are using Convolutional Neural Network(CNN) Algorithm .The activity of CNN is based on the our project is reconstruction of 2d to 3d images.in this project we are using convolutional neural network(cnn) algorithm .the activity of cnn is based on the input given in dots
+it automatically convert the dots  or patterns into the
+respected image what we have given in a 2d format .
+therefore it produces the image properly and we can visualize
+there.
 
-THESE ARE MADE UP OF NEURONS WITH LEARNABLE WEIGHTS AND BIASES.
-THESE NEURONS RECEIVES NUMEROUS INPUTS AND THEN TAKES A PATTERN
-FROM THAT AND PROVIDE AN OUTPUT.
+these are made up of neurons with learnable weights and biases.
+these neurons receives numerous inputs and then takes a pattern
+from that and provide an output.
 
 
 
